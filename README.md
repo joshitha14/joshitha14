@@ -28,9 +28,7 @@
   - **Security Behaviors of Election Pollworks: Clustering and Unsupervised Learning**: https://github.com/joshitha14/K-means_project880
   - **
 
-## 💼 Languages and Tools
-<br />
-<div>
+## 💼 Technical Skills
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -51,5 +49,4 @@
 ![](https://img.shields.io/badge/Looker-000000?style=flat&logo=looker&logoColor=white)
 ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-  </div>
 
