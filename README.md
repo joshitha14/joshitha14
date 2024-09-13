@@ -4,31 +4,18 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
 </a>
 
+- 🌱 I’m currently learning and developing new data pipelines while exploring and mastering emerging tools and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 
 ## 👨🏽‍💻 Work Experience:
   - **WeatherBug (parent:GroundTruth)** https://www.weatherbug.com/
-      - Data Engineer(Nov2021 - July2024)
+      - Associate Data Engineer -> Data Engineer (Nov2021 - July2024)
   - **TowsonUniversity** [https://www.towson.edu/](https://www.towson.edu/technology/)
-      - Data Analyst(July2019 - May2020)
+      - Data Analyst (July2019 - May2020)
   - **NCR Corporation Pvt Ltd** https://www.ncr.com/
-      - Software Engineer(Jan2013 - April2018)
+      - Intern -> Associate Software Engineer -> Software Engineer (Jan2013 - April2018)
 
-## Certifications:
-  - AWS Certified Data Engineer Associate (https://www.credly.com/badges/15acaf14-ebbd-4248-a26c-de9f58d5e3d3/linked_in?t=scsc0w)
-    
-## 👨🏻‍🎓 Academic Experience:
-  - **Masters in ComputerScience (Core: DataScience)** https://www.towson.edu/
-  - **Bachelors in ComputerScience** : https://jntuh.ac.in/
-
-
-## Academic Projects:
-  - **Security Behaviors of Election Pollworks: Clustering and Unsupervised Learning**: https://github.com/joshitha14/K-means_project880
-  - **
-
-## 💼 Technical Skills
+## 💼 Languages and Tools
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -49,4 +36,22 @@
 ![](https://img.shields.io/badge/Looker-000000?style=flat&logo=looker&logoColor=white)
 ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+## Certifications:
+  - AWS Certified Data Engineer Associate (https://www.credly.com/badges/15acaf14-ebbd-4248-a26c-de9f58d5e3d3/linked_in?t=scsc0w)
+    
+## 👨🏻‍🎓 Academic Experience:
+  - **Masters in ComputerScience (Core: DataScience)** https://www.towson.edu/
+  - **Bachelors in ComputerScience** : https://jntuh.ac.in/
+
+
+## Personal Projects:
+  - 
+
+
+## MachineLearning Projects:
+[![Security Behaviors of Election Pollworks: Clustering and Unsupervised Learning](https://ytcards.demolab.com/?id=zfK3mJ_bkSc&title=Decodable+vs+AWS+Managed+Service+for+Apache+Flink+%28MSF%29+-+End+to+End+Data+Engineering+Project&lang=en&timestamp=1725108094&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Security Behaviors of Election Pollworks: Clustering and Unsupervised Learning")](https://github.com/joshitha14/K-means_project880)
+  - **
+
+
 
