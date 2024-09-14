@@ -4,7 +4,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
 </a>
 
-- 🌱 I’m currently learning and developing new data pipelines while exploring and mastering emerging tools and technologies.
+
+ 🌱 I’m currently learning and developing new data pipelines while exploring and mastering emerging tools and technologies.
 
 
 ## 👨🏽‍💻 Work Experience:
