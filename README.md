@@ -47,8 +47,9 @@
 
 
 ## Personal Projects:
-  - [![Gist Card](https://Modern-DataEngineering-Pipeline.app/api/pin?username=joshitha14&repo=Modern-DataEngineering-Pipeline)](https://github.com/joshitha14/Modern-DataEngineering-Pipeline)
+  - [![Gist Card](https://Modern-DataEngineering-Pipeline.app/gist?/pin?username=joshitha14&repo=Modern-DataEngineering-Pipeline)](https://github.com/joshitha14/Modern-DataEngineering-Pipeline)
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 ## MachineLearning Projects:
 [![Security Behaviors of Election Pollworks: Clustering and Unsupervised Learning]()
