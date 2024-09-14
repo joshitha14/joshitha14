@@ -47,7 +47,7 @@
 
 
 ## Personal Projects:
-  - [![Readme Card](https://Modern-DataEngineering-Pipeline.app/api/pin?username=joshitha14&repo=Modern-DataEngineering-Pipeline)](https://github.com/joshitha14/Modern-DataEngineering-Pipeline)
+  - [![Gist Card](https://Modern-DataEngineering-Pipeline.app/api/pin?username=joshitha14&repo=Modern-DataEngineering-Pipeline)](https://github.com/joshitha14/Modern-DataEngineering-Pipeline)
 
 
 ## MachineLearning Projects:
