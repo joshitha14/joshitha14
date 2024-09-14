@@ -5,7 +5,7 @@
 </a>
 
 
- 🌱 I’m currently learning and developing new data pipelines while exploring and mastering emerging tools and technologies.
+ - 🌱 I’m currently learning and developing new data pipelines while exploring and mastering emerging tools and technologies.
 
 
 ## 👨🏽‍💻 Work Experience:
@@ -54,5 +54,24 @@
 [![Security Behaviors of Election Pollworks: Clustering and Unsupervised Learning]()
   - **
 
+
+
+## Testimonals:
+
+   - "I am delighted to collaborate with Joshitha. She demonstrates a strong sense of ownership, a willingness to face challenges, and excellent communication skills. 
+      She responds efficiently to data requirements from product design, explaining the technical context to me and providing suggestions for improvements in requirements and execution. This enables my critical          assumptions to be validated with real data in a very short time frame. 
+      Additionally, her expertise is impressive; she collaborates with me to ensure that all requirements are considered and presented in the data for complex cases and flow possibilities. These insights greatly         assist in product and design decision-making. 
+      Thank you, Joshitha!"
+
+       -- Kewei Lei, Lead UX Designer, WeatherBug
+     
+   - "I'm delighted to write a LinkedIn recommendation for Joshita, who has been an invaluable member of our team as a Data Engineer. 
+      During her time with us at Weatherbug, Joshita consistently showcased exceptional expertise in data engineering, demonstrating a profound understanding of complex data systems and a remarkable ability to           translate business requirements into actionable data solutions. Her contributions were instrumental in optimizing our data infrastructure, leading to increased efficiency and improved data-driven decision-         making processes.Joshita's dedication to her work is commendable. She approaches every task with meticulous attention to detail and a strong commitment to delivering high-quality results. Her proactive             attitude and willingness to take on challenges have been truly inspiring for the entire team.
+      Apart from her technical proficiency, Joshita is also a fantastic team player. She actively collaborates with colleagues, offering support and guidance whenever needed. Her positive attitude and excellent 
+      communication skills foster a collaborative work environment, making her a pleasure to work with.
+      In summary, Joshita is an outstanding Data Engineer who brings a wealth of knowledge, skill, and enthusiasm to our team. I have no doubt that she will continue to thrive and make significant contributions 
+      wherever her career takes her. I wholeheartedly recommend her without hesitation."
+
+       -- Sneha Rana, Senior Software Development Engineer, WeatherBug
 
 
