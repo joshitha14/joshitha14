@@ -34,15 +34,6 @@
 ## Certifications:
   - AWS Certified Data Engineer Associate (https://www.credly.com/badges/15acaf14-ebbd-4248-a26c-de9f58d5e3d3/linked_in?t=scsc0w)
 
-## Personal Projects:
-  - [![Readme Card](https://Modern-DataEngineering-Pipeline.vercel.app/api/pin/?username=joshitha14&repo=Modern-DataEngineering-Pipeline)](https://github.com/joshitha14/Modern-DataEngineering-Pipeline)
-  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## MachineLearning Projects:
-[![Security Behaviors of Election Pollworks: Clustering and Unsupervised Learning]()
-  - **
-
 
 
 
