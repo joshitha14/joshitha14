@@ -5,7 +5,7 @@
 </a>
 
 
- - 🌱 I’m currently learning and developing new data pipelines while exploring and mastering emerging tools and technologies.
+ - 🌱 I’m currently learning and building new data pipelines while exploring and mastering emerging tools and technologies.
 
 
 
