@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![](https://img.shields.io/badge/Looker-000000?style=flat&logo=looker&logoColor=white)
-![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=Tableaui&logoColor=white)
 
 ## Certifications:
   - AWS Certified Data Engineer Associate (https://www.credly.com/badges/15acaf14-ebbd-4248-a26c-de9f58d5e3d3/linked_in?t=scsc0w)
