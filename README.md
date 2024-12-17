@@ -6,6 +6,8 @@
 
 
  - 🌱 I’m currently learning and building new data pipelines while exploring and mastering emerging tools and technologies.
+ - Also, Actively seeking opportunities to contribute and learn, particularly in Data Engineering.
+ - Please check my projects in the Pinned section below.
 
 
 
